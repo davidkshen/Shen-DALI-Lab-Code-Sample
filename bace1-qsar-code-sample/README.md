@@ -6,7 +6,7 @@ An exploratory notebook using molecular fingerprints and docking-derived energy/
 
 **Data:** Lab datasets and saved research outputs are withheld. Private feature selections are redacted. Reproduction requires authorized inputs; the notebook contains alternative exploratory branches.
 
-The fingerprint workflow draws on the [Data Professor tutorial](https://github.com/dataprofessor/bioinformatics). Public-copy preparation and the previews below were AI-assisted.
+The fingerprint workflow draws on the [Data Professor tutorial](https://github.com/dataprofessor/bioinformatics). Previews below are only dummy so as to contain any proprietary information that belongs to me old lab. However, appearance-wise, it is still a demonstration of what was on my publications and demonstrates what the outputs appear as. 
 
 ## Visualization examples
 
