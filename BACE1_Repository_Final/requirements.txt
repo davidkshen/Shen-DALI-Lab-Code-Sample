@@ -1,0 +1,9 @@
+# Dependency inventory for viewing and core analysis, not the original lockfile.
+jupyterlab
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+networkx

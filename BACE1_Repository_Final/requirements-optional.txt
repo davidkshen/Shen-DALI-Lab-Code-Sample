@@ -1,0 +1,7 @@
+# Optional historical experiment branches; verify a compatible environment.
+-r requirements.txt
+lazypredict
+lightgbm
+xgboost
+shap
+mlxtend
