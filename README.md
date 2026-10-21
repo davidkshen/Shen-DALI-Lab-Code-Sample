@@ -25,8 +25,10 @@ Poster Results:
 Synthetic visualization previews
 These illustrate the plotting styles using randomly generated values. They are not research results.
 
-Synthetic fingerprint heatmap
+Synthetic fingerprint heatmap:
+
 ![Synthetic fingerprint heatmap](BACE1_Repository_Final/assets/synthetic_fingerprint_heatmap.png)
 
-Synthetic model-comparison violin plots
+Synthetic model-comparison violin plots:
+
 ![Synthetic model-comparison violin plots](BACE1_Repository_Final/assets/synthetic_model_violin.png)
